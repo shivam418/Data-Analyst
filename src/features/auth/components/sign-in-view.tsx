@@ -64,7 +64,7 @@ export default function SignInViewPage({ stars }: { stars: number }) {
           <Link
             className={cn('group inline-flex hover:text-yellow-200')}
             target='_blank'
-            href={'https://github.com/kiranism/next-shadcn-dashboard-starter'}
+            href={'https://github.com/shivam418/Data-Analyst'}
           >
             <div className='flex items-center'>
               <GitHubLogoIcon className='size-4' />
@@ -96,7 +96,7 @@ export default function SignInViewPage({ stars }: { stars: number }) {
             </p>
             <p>
               <Link
-                href='https://github.com/kiranism/next-shadcn-dashboard-starter'
+                href='https://github.com/shivam418/Data-Analyst'
                 target='_blank'
                 className='hover:text-primary underline underline-offset-4'
               >
@@ -107,13 +107,6 @@ export default function SignInViewPage({ stars }: { stars: number }) {
 
           <p className='text-muted-foreground px-8 text-center text-sm'>
             By clicking continue, you agree to our{' '}
-            <Link
-              href='/terms-of-service'
-              className='hover:text-primary underline underline-offset-4'
-            >
-              Terms of Service
-            </Link>{' '}
-            and{' '}
             <Link
               href='/privacy-policy'
               className='hover:text-primary underline underline-offset-4'

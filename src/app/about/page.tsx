@@ -11,10 +11,10 @@ export default function AboutPage() {
         {/* Header */}
         <div className='mb-12 text-center'>
           <h1 className='text-foreground text-3xl font-bold tracking-tight sm:text-4xl'>
-            About
+            About Data Analyst Dashboard
           </h1>
           <p className='text-muted-foreground mt-4 text-lg'>
-            Learn more about this project
+            Learn more about this personal data analyst dashboard project
           </p>
         </div>
 
@@ -26,10 +26,10 @@ export default function AboutPage() {
               Open-Source Project
             </h2>
             <p className='text-muted-foreground text-lg leading-relaxed'>
-              This is an open-source Next.js admin dashboard starter built with
-              modern web technologies. It provides a solid foundation for
-              building powerful admin interfaces and dashboards. The source code
-              is freely available for developers to use, modify, and distribute.
+              This is a personal data analyst dashboard built with modern web
+              technologies. It provides a solid foundation for building powerful
+              admin interfaces and dashboards. The source code is freely
+              available for developers to use, modify, and distribute.
             </p>
           </section>
 
@@ -39,10 +39,10 @@ export default function AboutPage() {
               Demo Purpose
             </h2>
             <p className='text-muted-foreground text-lg leading-relaxed'>
-              This application serves as a demo for demonstration purposes. It
-              showcases the features, components, and capabilities of the admin
-              dashboard starter. Feel free to explore the interface, test the
-              functionality, and evaluate if it meets your project requirements.
+              This application serves as a personal dashboard for data analysis.
+              It showcases various features, components, and capabilities for
+              managing data and analytics. Feel free to explore the interface
+              and customize it for your needs.
             </p>
           </section>
 
